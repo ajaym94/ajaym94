@@ -54,13 +54,6 @@ I sit at the intersection of design and engineering. I design systems, then buil
 ![PostHog](https://img.shields.io/badge/PostHog-F54E00?style=flat-square&logo=posthog&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-## Writing
-
-- [AI Won't Replace Designers (But Designers Using AI Will)](https://ajaym.co/writing/ai-wont-replace-designers)
-- [Designing Developer Tools That Developers Actually Use](https://ajaym.co/writing/designing-developer-tools)
-- [The Hidden Complexity of Simple UX](https://ajaym.co/writing/hidden-complexity-of-simple-ux)
-- [The UX of No-Code Platforms](https://ajaym.co/writing/ux-of-no-code-platforms)
-
 ## GitHub Stats
 
 <picture>
