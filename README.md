@@ -2,13 +2,9 @@
 
 Product Designer, Developer, and Product Manager. I ship production code with agentic coding.
 
-Leading AI design and development at [Deployd](https://deployd.io). Founder of [Altnautica](https://altnautica.com), where drones and tech converge.
+Leading AI design and development at [Deployd](https://deployd.io). Founder with a passion for drones [Altnautica](https://altnautica.com), where drones and tech converge.
 
 8+ years building B2B SaaS, developer tools, and AI products. 500K+ users.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ajaym.co-000?style=flat-square)](https://ajaym.co)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajaym7-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaym7)
-[![Email](https://img.shields.io/badge/Email-hello@ajayms.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@ajayms.com)
 
 ---
 
